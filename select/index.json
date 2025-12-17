@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Midnight Fiction",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-17T14:56:37.959087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Fiction",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_Midnight_Fiction_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Fiction",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/02_Midnight_Fiction_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Fiction",
+      "artist": "아일릿 (ILLIT)",
+      "has_synced": true,
+      "path": "select/03_Midnight_Fiction_아일릿_(ILLIT).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midnight Fiction (Sped Up)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/04_Midnight_Fiction_(Sped_Up)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight Fiction",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/05_Midnight_Fiction_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Fiction (Paused)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/06_Midnight_Fiction_(Paused)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Fiction",
+      "artist": "Illit (아일릿)",
+      "has_synced": true,
+      "path": "select/07_Midnight_Fiction_Illit_(아일릿).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Fiction",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Fiction_ILLIT.txt"
+    }
+  ]
+}
